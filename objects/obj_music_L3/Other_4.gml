@@ -1,0 +1,1 @@
+audio_play_sound(theinside, 0, true);

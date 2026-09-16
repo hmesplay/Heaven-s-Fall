@@ -1,0 +1,1 @@
+audio_play_sound(prism, 0, true);
